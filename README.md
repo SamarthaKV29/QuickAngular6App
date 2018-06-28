@@ -5,3 +5,6 @@ Quick application using data from (JSONPlaceHolder Typicode)[https://jsonplaceho
 ## Stack
 - Angular 6
 - Express
+
+### View Live at
+https://quickangularapp.herokuapp.com
